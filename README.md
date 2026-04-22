@@ -83,11 +83,16 @@ Medium (can escalate if repeated frequently)
 
 ## 📸 Screenshots
 
-(Add here:)
+## 📸 Screenshots
 
-* Wazuh alert view
-* Event details (4625)
-* Dashboard overview
+### Windows Event Log (4625)
+![Event 4625](event-4625-windows.png)
+
+
+### Wazuh Detection
+![Wazuh Alert](wazuh-detection-4625.png)
+
+This confirms that multiple failed login attempts were generated and successfully detected by Wazuh.
 
 ---
 
