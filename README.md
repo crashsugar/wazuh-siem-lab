@@ -83,8 +83,6 @@ Medium (can escalate if repeated frequently)
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
-
 ### Windows Event Log (4625)
 ![Event 4625](event-4625-windows.png)
 
