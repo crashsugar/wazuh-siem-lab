@@ -120,10 +120,10 @@ Wazuh correlates:
 ![SSH Attempts](screenshots/01-ssh-bruteforce-terminal.png)
 
 ### Log Evidence
-![Auth Log](screenshots/02-linux-authlog.png)
+![Auth Log](02-linux-authlog.png)
 
 ### Detection in Wazuh
-![Wazuh Alert](screenshots/03-wazuh-alert.png)
+![Wazuh Alert](03-wazuh-alert.png)
 ---
 
 ## ✅ Outcome
