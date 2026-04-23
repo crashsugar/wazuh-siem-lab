@@ -116,14 +116,14 @@ Wazuh correlates:
 
 ---
 
-## 📸 Screenshots
+### Attack Simulation
+![SSH Attempts](screenshots/01-ssh-bruteforce-terminal.png)
 
-Include:
+### Log Evidence
+![Auth Log](screenshots/02-linux-authlog.png)
 
-* SSH failed login attempts (terminal)
-* `/var/log/auth.log`
-* Wazuh alert view
-
+### Detection in Wazuh
+![Wazuh Alert](screenshots/03-wazuh-alert.png)
 ---
 
 ## ✅ Outcome
