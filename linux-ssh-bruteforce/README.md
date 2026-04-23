@@ -117,7 +117,7 @@ Wazuh correlates:
 ---
 
 ### Attack Simulation
-![SSH Attempts](screenshots/01-ssh-bruteforce-terminal.png)
+![SSH Attempts](01-ssh-bruteforce-terminal.png)
 
 ### Log Evidence
 ![Auth Log](02-linux-authlog.png)
