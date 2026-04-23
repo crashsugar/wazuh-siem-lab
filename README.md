@@ -20,6 +20,13 @@ The goal was to simulate a brute-force style attack and verify detection through
 
 ---
 
+## 📂 Scenarios
+
+- Windows Failed Logon (4625)
+- Linux SSH Brute Force
+
+---
+
 ## 🎯 Scenario: Failed Logon Simulation
 
 A simulated attack was performed by generating multiple failed login attempts on a Windows endpoint.
