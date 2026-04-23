@@ -1,13 +1,24 @@
-# wazuh-siem-lab
-SOC lab with Wazuh - attack simulations and detections
+# 🛡️ Wazuh SIEM Lab
 
-# 🛡️ Wazuh SIEM Lab – Detection of Failed Logon Attempts (Windows)
+This project demonstrates real-world security monitoring scenarios using Wazuh SIEM.
 
-## 📌 Overview
+The lab includes simulated attacks and detection techniques commonly observed in Security Operations Centers (SOC).
 
-This project demonstrates detection of failed logon attempts using a Wazuh SIEM lab environment.
+---
 
-The goal was to simulate a brute-force style attack and verify detection through log collection, rule matching, and alert generation.
+## 🎯 Objectives
+
+- Simulate real-world attack scenarios
+- Detect malicious activity using Wazuh
+- Analyze security events
+- Map detections to MITRE ATT&CK
+
+---
+
+## 📂 Scenarios
+
+- Windows Failed Logon (Event ID 4625)
+- Linux SSH Brute Force
 
 ---
 
@@ -17,13 +28,6 @@ The goal was to simulate a brute-force style attack and verify detection through
 * **Agent 1**: Windows 10 VM
 * **Agent 2**: Ubuntu VM
 * **Network**: Internal LAN (VirtualBox)
-
----
-
-## 📂 Scenarios
-
-- Windows Failed Logon (4625)
-- Linux SSH Brute Force
 
 ---
 
