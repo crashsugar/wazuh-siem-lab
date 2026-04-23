@@ -70,6 +70,16 @@ Multiple failed login attempts may indicate:
 
 ---
 
+## 🧠 Analyst Notes
+
+This activity is consistent with brute force behavior commonly observed in real-world environments.
+
+The repeated authentication failures from a single source indicate an attempt to gain unauthorized access.
+
+No successful login was observed, suggesting the attack was unsuccessful.
+
+---
+
 ## 🧬 MITRE ATT&CK Mapping
 
 * **Technique**: T1110 – Brute Force
