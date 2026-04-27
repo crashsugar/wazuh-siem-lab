@@ -31,6 +31,16 @@ It includes multiple attack simulations and corresponding detection techniques c
 
 ---
 
+## 🎯 Use Case
+
+This lab simulates real-world attack scenarios to demonstrate how a Security Operations Center (SOC) detects and analyzes threats.
+
+It reflects common activities such as:
+- Brute force attacks
+- Unauthorized access attempts
+- Privilege escalation
+---
+
 ## 🏗️ Lab Architecture
 
 * **Wazuh Manager** (Ubuntu Server)
