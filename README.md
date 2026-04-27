@@ -19,6 +19,7 @@ The lab includes simulated attacks and detection techniques commonly observed in
 
 - Windows Failed Logon (Event ID 4625)
 - Linux SSH Brute Force
+- Linux Privilege Escalation
 
 ---
 
