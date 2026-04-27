@@ -40,14 +40,14 @@ It includes multiple attack simulations and corresponding detection techniques c
   * Ubuntu Linux endpoint
   * **Network:** Isolated virtual lab (VirtualBox)
 
-         [ Attacker Machine ]
+        [ Attacker Machine ]
                  ↓
         --------------------
         |   Wazuh Manager  |
         --------------------
            ↓           ↓
    [ Windows Agent ]  [ Linux Agent ]
-
+  
 ---
 
 ## 📂 Scenarios
