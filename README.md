@@ -1,7 +1,20 @@
 ![Wazuh](https://img.shields.io/badge/SIEM-Wazuh-blue)
 ![Status](https://img.shields.io/badge/Project-Active-green)
 
-# 🛡️ Wazuh SIEM Lab
+## 📑 Table of Contents
+
+- [Overview](#-wazuh-siem-lab)
+- [Objectives](#-objectives)
+- [Lab Architecture](#-lab-architecture)
+- [Scenarios](#-scenarios)
+- [Skills Demonstrated](#-skills-demonstrated)
+- [Tools Used](#-tools-used)
+- [Key Takeaways](#-key-takeaways)
+- [Project Structure](#-project-structure)
+
+---
+
+# 🛡️ Wazuh SIEM Lab - Overview
 
 This project demonstrates real-world security monitoring and threat detection using a Wazuh SIEM environment.
 
@@ -25,7 +38,15 @@ It includes multiple attack simulations and corresponding detection techniques c
 
   * Windows 10 endpoint
   * Ubuntu Linux endpoint
-* **Network:** Isolated virtual lab (VirtualBox)
+  * **Network:** Isolated virtual lab (VirtualBox)
+
+         [ Attacker Machine ]
+                 ↓
+        --------------------
+        |   Wazuh Manager  |
+        --------------------
+           ↓           ↓
+   [ Windows Agent ]  [ Linux Agent ]
 
 ---
 
