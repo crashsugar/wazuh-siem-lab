@@ -125,9 +125,9 @@ Escalates if:
 
 Include:
 
-* ![crontab -l](crontab-l-output.png)
-* ![crontab log](tmp-crontab-persistence-log.png)
-* ![Wazuh detection](crontab-wazuh-persistence.png)
+![crontab -l](crontab-l-output.png)
+![crontab log](tmp-crontab-persistence-log.png)
+![Wazuh detection](crontab-wazuh-persistence.png)
 
 ---
 
