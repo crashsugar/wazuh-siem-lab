@@ -88,6 +88,11 @@ It reflects common activities such as:
 
 👉 [`linux-persistence-cron`](./linux-persistence-cron)
 
+* **Linux File integrity Monitoring**
+   .
+
+👉 [`linux-file-integrity-monitoring`](./linux-file-integrity-monitoring)
+
 ---
 
 ## 🧠 Skills Demonstrated
