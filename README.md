@@ -83,6 +83,11 @@ It reflects common activities such as:
 
 👉 [`linux-privilege-escalation`](./linux-privilege-escalation)
 
+* **Linux Persistence cron
+   Establishing persistence by scheduling recurring tasks using cron.
+
+👉 ['linux-persistence-cron'](./linux-persistence-cron)
+
 ---
 
 ## 🧠 Skills Demonstrated
