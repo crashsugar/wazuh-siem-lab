@@ -146,7 +146,7 @@ Escalates if:
 ## 📸 Screenshots
 
 ### Command used to modify file 
-![echo command](tail-passwd-echo)
+![echo command](tail-passwd-echo.png)
 ### Output of `tail /etc/passwd`
 ![Output of "tail /etc/passwd"](tail-passwd.png)
 ### Wazuh alert showing file modification
