@@ -89,7 +89,7 @@ It reflects common activities such as:
 👉 [`linux-persistence-cron`](./linux-persistence-cron)
 
 * **Linux File integrity Monitoring**
-   .
+   tampering with a critical system file and verify that the change is detected and logged.
 
 👉 [`linux-file-integrity-monitoring`](./linux-file-integrity-monitoring)
 
