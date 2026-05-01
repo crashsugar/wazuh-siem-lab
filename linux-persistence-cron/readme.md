@@ -123,10 +123,11 @@ Escalates if:
 
 ## 📸 Screenshots
 
-Include:
-
+### crontab-l 
 ![crontab -l](crontab-l-output.png)
+### crontab log
 ![crontab log](tmp-crontab-persistence-log.png)
+### wazuh detection
 ![Wazuh detection](crontab-wazuh-persistence.png)
 
 ---
