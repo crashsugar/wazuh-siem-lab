@@ -86,7 +86,7 @@ It reflects common activities such as:
 * **Linux Persistence cron
    Establishing persistence by scheduling recurring tasks using cron.
 
-👉 ['linux-persistence-cron'](./linux-persistence-cron)
+👉 [`linux-persistence-cron`](./linux-persistence-cron)
 
 ---
 
