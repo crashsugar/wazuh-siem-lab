@@ -143,5 +143,5 @@ wazuh-siem-lab/
 ---
 
 ## 📬 Author
-
+Jakub Witek
 
