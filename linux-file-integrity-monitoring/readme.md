@@ -151,6 +151,8 @@ Escalates if:
 ![Output of "tail /etc/passwd"](tail-passwd.png)
 ### Wazuh alert showing file modification
 ![file integrity](file-integrity-passwd.png)
+### Wazuh alert showing file modification - details
+![file integrity](file-integrity-passwd2.png)
 
 ---
 
