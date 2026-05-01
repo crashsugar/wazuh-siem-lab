@@ -129,14 +129,14 @@ wazuh-siem-lab/
 ├── windows-failed-logon/
 ├── linux-ssh-bruteforce/
 ├── linux-privilege-escalation/
+├── linux-persistence-cron/
+├── linux-file-integrity-monitoring/
 ```
 
 ---
 
 ## 📌 Future Improvements
 
-* Persistence mechanisms detection
-* File Integrity Monitoring (FIM)
 * Lateral movement scenarios
 * Active Directory integration
 
