@@ -145,11 +145,12 @@ Escalates if:
 
 ## 📸 Screenshots
 
-Include:
-
-* Command used to modify file
-* Output of `tail /etc/passwd`
-* Wazuh alert showing file modification
+### Command used to modify file 
+![echo command](tail-passwd-echo)
+### Output of `tail /etc/passwd`
+![Output of "tail /etc/passwd"](tail-passwd.png)
+### Wazuh alert showing file modification
+![file integrity](file-integrity-passwd.png)
 
 ---
 
