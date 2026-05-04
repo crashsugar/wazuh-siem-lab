@@ -135,7 +135,7 @@ Escalates if:
 ### Wazuh Alert 1
 ![Wazuh alert 2](linux-privilege-escalation-wazuh-alert1.png)
 ### Wazuh Alert 2
-![Wazuh Alert 2](linux-privilege-escalation-wazuh-alert1.png)
+![Wazuh Alert 2](linux-privilege-escalation-wazuh-alert2.png)
 
 ---
 
