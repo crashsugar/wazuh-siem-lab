@@ -56,10 +56,9 @@ It reflects common activities such as:
         |   Wazuh Manager  |
         --------------------
            ↓           ↓
-   [ Windows Agent ]  [ Linux Agent ]
+  [ Windows Agent ]  [ Linux Agent ]
   
 ---
-
 ## 📂 Scenarios
 
 ### 🪟 Windows
