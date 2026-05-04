@@ -71,6 +71,7 @@ It reflects common activities such as:
 
 * **Windows AD account lockout**
   Detection of account lockout events in an Active Directory environment
+  
 👉 [`Windows-ad-lockout`](./windows-ad-account-lockout)
 
 ---
