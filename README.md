@@ -132,6 +132,7 @@ It reflects common activities such as:
 ```text
 wazuh-siem-lab/
 ├── windows-failed-logon/
+|── windows-ad-account-lockout/
 ├── linux-ssh-bruteforce/
 ├── linux-privilege-escalation/
 ├── linux-persistence-cron/
