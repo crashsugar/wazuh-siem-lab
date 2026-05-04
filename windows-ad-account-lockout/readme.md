@@ -149,6 +149,14 @@ Include:
 * Event ID 4740 (account lockout)
 * Wazuh dashboard showing alerts
 
+ 
+### Event ID 4625 (failed login)
+![Event ID 4625](4625_failed_logon.png)
+### Event ID 4740 (account lockout)
+![Event ID 4740](4740_account_lockout.png)
+### Wazuh dashboard showing alerts
+![Wazuh dashboard showing alerts](wazuh_account_lockout_alert.png)
+
 ---
 
 ## ✅ Outcome
