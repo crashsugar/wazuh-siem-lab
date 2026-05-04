@@ -69,7 +69,7 @@ It reflects common activities such as:
 
 👉 [`windows-failed-logon`](./windows-failed-logon)
 
-* **Windows AD account lockout
+* **Windows AD account lockout**
   Detection of account lockout events in an Active Directory environment
 👉 [`Windows-ad-lockout`](./windows-ad-account-lockout)
 
