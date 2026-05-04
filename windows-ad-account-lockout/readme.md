@@ -156,6 +156,7 @@ Include:
 ![Event ID 4740](4740_account_lockout.png)
 ### Wazuh dashboard showing alerts
 ![Wazuh dashboard showing alerts](wazuh_account_lockout_alert.png)
+![Wazuh dashboard showing alerts](wazuh_account_lockout_alert2.png)
 
 ---
 
