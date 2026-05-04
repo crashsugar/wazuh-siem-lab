@@ -143,13 +143,6 @@ Escalates if:
 
 ## 📸 Screenshots
 
-Include:
-
-* Event ID 4625 (failed login)
-* Event ID 4740 (account lockout)
-* Wazuh dashboard showing alerts
-
- 
 ### Event ID 4625 (failed login)
 ![Event ID 4625](4625_failed_logon.png)
 ### Event ID 4740 (account lockout)
