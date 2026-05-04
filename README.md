@@ -69,6 +69,10 @@ It reflects common activities such as:
 
 👉 [`windows-failed-logon`](./windows-failed-logon)
 
+* **Windows AD account lockout
+   ...
+👉 [`Windows-ad-lockout`](./windows-ad-account-lockout)
+
 ---
 
 ### 🐧 Linux
