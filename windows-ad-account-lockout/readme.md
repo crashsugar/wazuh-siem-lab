@@ -1,3 +1,5 @@
+![AD](https://img.shields.io/badge/Active%20Directory-Lab-blue)
+
 # 🪟 Wazuh SIEM Lab – Active Directory Account Lockout Detection
 
 ## 📌 Overview
