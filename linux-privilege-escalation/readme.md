@@ -133,7 +133,7 @@ Escalates if:
 ### Linux privilege escalation logs
 ![Escalation logs](Linux-privilege-escalation-logs.png)
 ### Wazuh Alert 1
-![Wazuh Alert 1](Linux-privilege-escalation-wazuh-alert1.png)
+![Linux-privilege-escalation-wazuh-alert1](Linux-privilege-escalation-wazuh-alert1.png)
 ### Wazuh Alert 2
 ![Wazuh Alert 2](Linux-privilege-escalation-wazuh-alert1.png)
 
